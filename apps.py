@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class ModelappConfig(AppConfig):
+class ZomatoappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'modelapp'
+    name = 'zomatoapp'
